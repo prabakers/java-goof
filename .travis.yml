@@ -1,0 +1,10 @@
+language: java
+
+addons:
+  srcclr: true
+
+notifications:
+  email: false
+
+jdk:
+- oraclejdk8
