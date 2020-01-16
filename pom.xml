@@ -4,7 +4,6 @@
   
   <groupId>top.jdev</groupId>
   <artifactId>poc-s2-rce-mvn</artifactId>
-  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>poc-s2-rce-mvn Maven Webapp</name>
   
